@@ -1,0 +1,82 @@
+name: test1
+description: A new Flutter project.
+publish_to: none
+version: 1.0.0+1
+environment: 
+  sdk: '>=2.16.2 <3.0.0'
+dependencies: 
+  flutter: 
+    sdk: flutter
+  cupertino_icons: ^1.0.2
+  widgetbook: 2.0.5-beta
+  auto_size_text: 3.0.0
+  flutter_svg: ^1.0.3
+dev_dependencies: 
+  flutter_test: 
+    sdk: flutter
+  flutter_lints: ^1.0.0
+flutter: 
+  uses-material-design: true
+  assets: 
+    - packages/test1/assets/images/ellipse1.png
+    - packages/test1/assets/images/foodcornerletterflogo01removebgpreview12.png
+    - packages/test1/assets/images/line1.svg
+    - packages/test1/assets/images/line3.svg
+    - packages/test1/assets/images/line2.svg
+    - packages/test1/assets/images/line4.svg
+    - packages/test1/assets/images/ellipse2.png
+    - packages/test1/assets/images/google.png
+    - packages/test1/assets/images/facebook.png
+    - packages/test1/assets/images/vector.svg
+    - packages/test1/assets/images/frame5.svg
+    - packages/test1/assets/images/evaarrowiosbackoutline.svg
+    - packages/test1/assets/images/cap.svg
+    - packages/test1/assets/images/wifi.svg
+    - packages/test1/assets/images/cellularconnection.svg
+    - packages/test1/assets/images/bxsearch.svg
+    - packages/test1/assets/images/rectangle6.png
+    - packages/test1/assets/images/foodcornerletterflogo01removebgpreview13.png
+    - packages/test1/assets/images/ellipse3.svg
+    - packages/test1/assets/images/rectangle10.png
+    - packages/test1/assets/images/star1.svg
+    - packages/test1/assets/images/icbaselineaccesstime.svg
+    - packages/test1/assets/images/cilsettings.svg
+    - packages/test1/assets/images/cellularconnection.png
+    - packages/test1/assets/images/wifi.png
+    - packages/test1/assets/images/rectangle22.svg
+    - packages/test1/assets/images/group.svg
+    - packages/test1/assets/images/fluenthome32regular.svg
+    - packages/test1/assets/images/evaarrowbackfill.svg
+    - packages/test1/assets/images/ellipse5.png
+    - packages/test1/assets/images/line7.svg
+    - packages/test1/assets/images/line8.svg
+    - packages/test1/assets/images/ellipse12.svg
+    - packages/test1/assets/images/claritynotificationline.svg
+    - packages/test1/assets/images/ellipse7.png
+    - packages/test1/assets/images/ellipse9.svg
+    - packages/test1/assets/images/materialsymbolshelpoutlinerounded.svg
+    - packages/test1/assets/images/ellipse12.png
+    - packages/test1/assets/images/icroundlogout.svg
+    - packages/test1/assets/images/ellipse10.svg
+    - packages/test1/assets/images/fluentsend24regular.svg
+    - packages/test1/assets/images/rectangle20.svg
+    - packages/test1/assets/images/ellipse11.svg
+    - packages/test1/assets/images/antdesignstaroutlined.svg
+    - packages/test1/assets/images/line9.svg
+    - packages/test1/assets/images/switch.png
+    - packages/test1/assets/images/rectangle23.svg
+    - packages/test1/assets/images/foodcornerletterflogo01removebgpreview11.png
+    - packages/test1/assets/images/thremovebgpreview1.png
+    - packages/test1/assets/images/evaarrowiosbackfill.svg
+    - packages/test1/assets/images/group34.svg
+    - packages/test1/assets/images/rectangle29.svg
+    - packages/test1/assets/images/ellipse13.png
+    - packages/test1/assets/images/ellipse14.png
+    - packages/test1/assets/images/antdesignheartoutlined.svg
+    - packages/test1/assets/images/line13.svg
+    - packages/test1/assets/images/group37.svg
+    - packages/test1/assets/images/rectangle30.png
+    - packages/test1/assets/images/ellipse16.png
+    - packages/test1/assets/images/rectangle7.png
+    - packages/test1/assets/images/rectangle35.png
+    - packages/test1/assets/images/ellipse17.png
